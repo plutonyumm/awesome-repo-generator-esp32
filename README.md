@@ -25,3 +25,6 @@ an ESP32 gadget that shows a random github repo from the `topic:awesome` list on
 ## license
 
 whatevs
+
+## wiring diagram (bad)
+<img width="1255" height="772" alt="image" src="https://github.com/user-attachments/assets/fbfc991a-8c8e-47ad-97c0-8e5b817f9f8e" />
