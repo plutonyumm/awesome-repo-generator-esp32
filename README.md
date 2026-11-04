@@ -21,7 +21,7 @@ an ESP32 gadget that shows a random github repo from the `topic:awesome` list on
 ## setup
 
 1. install libs: `Adafruit GFX`, `Adafruit SSD1306`, `ArduinoJson`
-2. edit **lines 15 & 16** in `sketch_nov4a.ino` with your wifi ssid and password
+2. edit **lines 15 & 16** in `awesome-repo-gen.ino` with your wifi ssid and password
 3. flash to your ESP32, open Serial Monitor at `115200` to watch it boot
 
 ## license
