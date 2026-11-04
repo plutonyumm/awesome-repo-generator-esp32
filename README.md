@@ -2,6 +2,8 @@
 
 an ESP32 gadget that shows a random github repo from the `topic:awesome` list on an OLED. press the button to reroll.
 
+<img width="4032" height="1908" alt="image" src="https://github.com/user-attachments/assets/864b6fea-e825-46ae-8f92-b94e8c53dcef" />
+
 ## hardware
 
 - ESP32 board
