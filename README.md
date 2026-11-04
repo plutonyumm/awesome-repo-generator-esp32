@@ -1,6 +1,3 @@
-# awesome-repo-generator-esp32
-uses an api to fetch random awesome repos and displays it on an esp32
-
 # awesome repo generator 9000
 
 an ESP32 gadget that shows a random github repo from the `topic:awesome` list on an OLED. press the button to reroll.
