@@ -16,8 +16,8 @@ an ESP32 gadget that shows a random github repo from the `topic:awesome` list on
 * OLED `SCL` -> GPIO `22`
 * OLED `VCC` -> 3.3V
 * OLED `GND` -> GND
-* button leg 1 (top left) -> GPIO `4`
-* button leg 4 (bottom right) -> GND
+* button leg 1 (top left) -> 3.3V
+* button leg 4 (bottom right) -> GPIO `4`
 ## setup
 
 1. install libs: `Adafruit GFX`, `Adafruit SSD1306`, `ArduinoJson`
